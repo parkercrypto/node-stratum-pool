@@ -28,7 +28,7 @@
         "url": "https://github.com/parkercrypto/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/zone117x/node-multi-hashing.git",
+        "multi-hashing": "https://github.com/parkercrypto/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
